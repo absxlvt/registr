@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(50, 131, 131);
+}
+form {
+    margin-top: 25%;
+    text-align: center;
+}
+h1 {
+    color: rgb(211, 200, 200);
+}
+.text {
+    width: 196px;
+    padding: 10px 20px 10px;
+    background:rgb(86, 218, 218);
+    
+    box-shadow: none;
+    border: none;
+    color: #0d0d0f;
+    font-size: 1em;
+    letter-spacing: 0.05em;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+.button {
+    cursor: pointer;
+    position: relative;
+    padding: 10px 24px;
+    font-size: 18px;
+    color: rgb(86, 218, 218);
+    border: 3px solid rgb(86, 218, 218);
+    border-radius: 34px;
+    background-color: transparent;
+    font-weight: 600;
+    transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+    overflow: hidden;
+}
+
